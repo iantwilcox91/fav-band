@@ -19,14 +19,24 @@
 }
 
 .maincontainer {
+  padding: 30px;
   width: 500px;
   float: left;
-  margin: 20px 40px 0 0;
+  margin: 20px 40px 400px 0;
   background: #000000;
-  height: 1100px
-
 }
 
 .white {
   color:#ffffff;
+}
+
+.bandpicture {
+    width: 450px;
+    border: solid 25px black;
+}
+
+.bandpic {
+    float:right;
+    width: 100px;
+    border: solid 25px black;
 }
